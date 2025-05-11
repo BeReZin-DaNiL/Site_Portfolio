@@ -13,7 +13,7 @@ function App() {
       </header>
       <main className="portfolio-main">
         <section className="portfolio-hero">
-          <h1>Привет! Я Данил 👋</h1>
+          <h1>Привет!</h1>
           <p>Я Frontend-разработчик, создаю современные и адаптивные сайты на React.</p>
           <a className="portfolio-btn" href="#projects">Смотреть проекты</a>
         </section>
