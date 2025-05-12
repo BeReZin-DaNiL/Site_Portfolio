@@ -18,7 +18,7 @@ function App() {
 
       <main className="portfolio-main">
         <section className="portfolio-hero">
-          <h1>Frontend Developer</h1>
+          <h1>разработчик</h1>
           <p>Создаю современные, отзывчивые и интерактивные веб-приложения с использованием React, TypeScript и современных технологий.</p>
           <div className="portfolio-btn-group">
             <a className="portfolio-btn" href="#projects">МОИ ПРОЕКТЫ</a>
